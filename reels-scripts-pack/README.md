@@ -1,6 +1,6 @@
 # 50 Viral Reels & TikTok Script Templates
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ⏳ Launching soon
 

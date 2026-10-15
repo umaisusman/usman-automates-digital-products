@@ -1,6 +1,6 @@
 # 100 ChatGPT Prompts for Social Media Managers
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ⏳ Launching soon
 
