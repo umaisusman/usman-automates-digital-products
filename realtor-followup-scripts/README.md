@@ -1,6 +1,6 @@
 # Real Estate Agent Follow-Up Scripts Pack
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ⏳ Launching soon
 

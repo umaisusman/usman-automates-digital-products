@@ -1,6 +1,6 @@
 # Everyday Lightroom Preset Pack
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ✅ Available now
 
