@@ -1,6 +1,6 @@
 # 100 ChatGPT Prompts for Freelancers
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ⏳ Launching soon
 

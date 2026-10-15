@@ -1,6 +1,6 @@
 # 100 ChatGPT Prompts for Real Estate Agents
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ⏳ Launching soon
 
