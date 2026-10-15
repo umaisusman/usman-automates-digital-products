@@ -1,6 +1,6 @@
 # Freelancer Client Outreach Kit
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ✅ Available now
 

@@ -1,6 +1,6 @@
 # 30-Day Content Calendar for Small Business
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ✅ Available now
 
