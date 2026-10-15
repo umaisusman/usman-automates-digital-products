@@ -1,6 +1,6 @@
 # Wedding Budget & Planning Tracker
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ⏳ Launching soon
 

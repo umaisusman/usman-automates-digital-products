@@ -1,6 +1,6 @@
 # Job Interview Prep Kit
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ⏳ Launching soon
 
