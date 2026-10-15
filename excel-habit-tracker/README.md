@@ -1,6 +1,6 @@
 # Ultimate Excel Habit Tracker
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ✅ Available now
 

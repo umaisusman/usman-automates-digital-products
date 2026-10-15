@@ -1,6 +1,6 @@
 # USCIS Interview Prep Guide
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ✅ Available now
 
