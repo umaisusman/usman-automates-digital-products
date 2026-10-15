@@ -1,6 +1,6 @@
 # 100 ChatGPT Prompts for Insurance Agents
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ✅ Available now
 

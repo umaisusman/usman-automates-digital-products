@@ -1,6 +1,6 @@
 # Home Care Client-Getting Playbook
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ✅ Available now
 
