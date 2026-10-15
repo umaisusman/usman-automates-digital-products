@@ -1,6 +1,6 @@
 # The Caregiver Retention Toolkit
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ✅ Available now
 
