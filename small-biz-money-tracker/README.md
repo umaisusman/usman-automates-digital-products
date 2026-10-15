@@ -1,6 +1,6 @@
 # Small Business Money Tracker
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ⏳ Launching soon
 

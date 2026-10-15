@@ -1,6 +1,6 @@
 # Freelancer Contract & Invoice Template Pack
 
-![cover](cover.png)
+![cover](cover.jpg)
 
 ⏳ Launching soon
 
