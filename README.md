@@ -19,15 +19,16 @@ All products are sold securely through Gumroad (instant download after purchase)
 | Freelancer Client Outreach Kit | $14 | ✅ Available now | [Buy](https://usmanautomates.gumroad.com/l/axkpfe) |
 | 30-Day Content Calendar for Small Business | $12 | ✅ Available now | [Buy](https://usmanautomates.gumroad.com/l/gyjrp) |
 | Everyday Lightroom Preset Pack | $15 | ✅ Available now | [Buy](https://usmanautomates.gumroad.com/l/everyday-lightroom-preset-pack) |
-| Real Estate Agent Follow-Up Scripts Pack | $15 | ⏳ Launching soon | Soon |
-| Wedding Budget & Planning Tracker | $12 | ⏳ Launching soon | Soon |
-| Job Interview Prep Kit | $14 | ⏳ Launching soon | Soon |
-| Small Business Money Tracker | $15 | ⏳ Launching soon | Soon |
-| Freelancer Contract & Invoice Template Pack | $12 | ⏳ Launching soon | Soon |
-| 100 ChatGPT Prompts for Real Estate Agents | $12 | ⏳ Launching soon | Soon |
-| 100 ChatGPT Prompts for Freelancers | $12 | ⏳ Launching soon | Soon |
-| 100 ChatGPT Prompts for Social Media Managers | $12 | ⏳ Launching soon | Soon |
-| 50 Viral Reels & TikTok Script Templates | $12 | ⏳ Launching soon | Soon |
+| Real Estate Agent Follow-Up Scripts Pack | $15 | ✅ Available now | [Buy](https://usmanautomates.gumroad.com/l/realtor-followup-scripts) |
+| Wedding Budget & Planning Tracker | $12 | ✅ Available now | [Buy](https://usmanautomates.gumroad.com/l/wedding-budget-tracker) |
+| Job Interview Prep Kit | $14 | ✅ Available now | [Buy](https://usmanautomates.gumroad.com/l/interview-prep-kit) |
+| Small Business Money Tracker | $15 | ✅ Available now | [Buy](https://usmanautomates.gumroad.com/l/small-biz-money-tracker) |
+| Freelancer Contract & Invoice Template Pack | $12 | ✅ Available now | [Buy](https://usmanautomates.gumroad.com/l/freelancer-contract-pack) |
+| 100 ChatGPT Prompts for Real Estate Agents | $12 | ✅ Available now | [Buy](https://usmanautomates.gumroad.com/l/realtor-ai-prompts-pack) |
+| 100 ChatGPT Prompts for Freelancers | $12 | ✅ Available now | [Buy](https://usmanautomates.gumroad.com/l/freelancer-ai-prompts-pack) |
+| 100 ChatGPT Prompts for Social Media Managers | $12 | ✅ Available now | [Buy](https://usmanautomates.gumroad.com/l/social-media-manager-prompts-pack) |
+| 50 Viral Reels & TikTok Script Templates | $12 | ✅ Available now | [Buy](https://usmanautomates.gumroad.com/l/reels-scripts-pack) |
+| AI Instagram Engagement Scheduler | $200 | ✅ Available now | [Buy](https://usmanautomates.gumroad.com/l/ig-engagement-scheduler) |
 
 ## About
 
